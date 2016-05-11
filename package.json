@@ -2,7 +2,7 @@
   "name": "skeleton-repo",
   "version": "1.0.0",
   "description": "A skeleton project for creating react components packaged with npm",
-  "main": "lib/skeleton-repo.js",
+  "main": "lib/pacomo.js",
   "scripts": {
     "compile": "babel --presets es2015,stage-0 -d lib/ src/",
     "prepublish": "npm run compile",
